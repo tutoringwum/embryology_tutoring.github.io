@@ -170,6 +170,7 @@ padding-top: 130px;
     font-family: 'Montserrat', sans-serif;
 margin-top: 80px;
     z-index: 10000;
+    background: rgba(0, 0, 0, 0);
 }
 .price-block p{
     color: white;
