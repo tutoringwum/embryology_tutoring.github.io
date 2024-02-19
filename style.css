@@ -169,6 +169,7 @@ padding-top: 130px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 margin-top: 80px;
+    z-index: 1000;
 }
 .price-block p{
     color: white;
