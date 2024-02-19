@@ -34,6 +34,6 @@ function updateCounter(counterId, targets, interval) {
 }
 
 
-updateCounter("counter1", [50],10);
-updateCounter("counter2", [150], 8);
-updateCounter("counter3", [300], 5); 
+updateCounter("counter1", [30],10);
+updateCounter("counter2", [100], 8);
+updateCounter("counter3", [200], 5); 
