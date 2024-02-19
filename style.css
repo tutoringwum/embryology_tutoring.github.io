@@ -221,6 +221,7 @@ footer img{
     bottom: 0;
     right: 0;
     width: 43%;
+    z-index: 1;
 }
 footer h4{
     font-size: 39px;
