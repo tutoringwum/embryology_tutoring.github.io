@@ -407,7 +407,8 @@ footer img{
     bottom: -40px;
     display: block;
     right: -5px;
-    width: 150%;
+    width: 100%;
+    height: 110%;
 }
 footer h4{
     font-size: 19px;
