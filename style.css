@@ -169,7 +169,7 @@ padding-top: 130px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 margin-top: 80px;
-    z-index: 1000;
+    z-index: 10000;
 }
 .price-block p{
     color: white;
@@ -178,6 +178,7 @@ margin-top: 80px;
 margin-top: -140px;
 font-weight: bold;
 font-size: 29px;
+    z-index: 10000;
 }
 .price-pos-rel {
     text-decoration: line-through;
@@ -191,9 +192,11 @@ font-size: 29px;
     left: 35%;
     top: 120px; 
     transform: rotate(-20deg);
+    z-index: 10000;
 }
 .price-block-relative {
     position: relative;
+    z-index: 10000;
 }
 .foot{
     display: flex;
